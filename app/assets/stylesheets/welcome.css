@@ -16,3 +16,23 @@
   background-attachment: fixed;
   background-position: center; 
 }
+
+.caption{
+  background-color: rgba(0,0,0,0.5);
+  width: 100%;
+  margin-top: 20%;
+  position: relative;
+  color: rgb(255,255,255);
+}
+
+.caption h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+.caption h4{
+  margin-top: 0px;
+}
+
+.text-logo{
+  text-align: left;
+}
